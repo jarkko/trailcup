@@ -17,10 +17,24 @@
 @import "font-awesome"
 
 // Your own styles go here.
+body
+  background-color: #000
+  background-image: url(/images/a4-evolution.jpg)
+  background-size: 100%
+  background-repeat: no-repeat
+  background-position: 50% 0
+  color: #fff
+  min-height: 1200px
+  font-family: "ff-meta-serif-web-pro",serif
+
+header
+  height: 30em
+
 h1
-  color: #999
+  color: #eee
   text-transform: uppercase
   line-height: 1em
+  font-family: "neuzon",sans-serif
 h2
   line-height: 1.3em
 kbd
@@ -36,6 +50,26 @@ footer
   img
     max-width: 100%
     height: auto
+
+
+// Automatically reset the grid width & re-apply the grid background
+// to responsive layouts.
+$layouts: $break-tablet, $break-desktop, $break-huge
+@each $layout in $layouts
+  @include at-breakpoint($layout)
+  h1
+    font-size: 1.5em
+
+@include at-breakpoint($break-tablet)
+  h1
+    font-size: 2em
+
+@include at-breakpoint($break-desktop)
+  h1
+    font-size: 3em
+
+@include at-breakpoint($break-huge)
+
 
 
 // H5BP helper classes & mixins.
