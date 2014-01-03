@@ -369,9 +369,16 @@ textarea {
 header, #main-content, footer {
   overflow: hidden;
   *zoom: 1; }
+  /* line 38, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  header h1, #main-content h1, footer h1 {
+    width: 48.3871%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -20px;
+    display: inline; }
 
 @media (min-width: 620px) {
-  /* line 43, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 46, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
     max-width: 620px;
     background-image: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(0%, rgba(100, 100, 225, 0.25)), color-stop(9.67742%, rgba(100, 100, 225, 0.25)), color-stop(9.67742%, rgba(0, 0, 0, 0)), color-stop(12.90323%, rgba(0, 0, 0, 0)), color-stop(12.90323%, rgba(100, 100, 225, 0.25)), color-stop(22.58065%, rgba(100, 100, 225, 0.25)), color-stop(22.58065%, rgba(0, 0, 0, 0)), color-stop(25.80645%, rgba(0, 0, 0, 0)), color-stop(25.80645%, rgba(100, 100, 225, 0.25)), color-stop(35.48387%, rgba(100, 100, 225, 0.25)), color-stop(35.48387%, rgba(0, 0, 0, 0)), color-stop(38.70968%, rgba(0, 0, 0, 0)), color-stop(38.70968%, rgba(100, 100, 225, 0.25)), color-stop(48.3871%, rgba(100, 100, 225, 0.25)), color-stop(48.3871%, rgba(0, 0, 0, 0)), color-stop(51.6129%, rgba(0, 0, 0, 0)), color-stop(51.6129%, rgba(100, 100, 225, 0.25)), color-stop(61.29032%, rgba(100, 100, 225, 0.25)), color-stop(61.29032%, rgba(0, 0, 0, 0)), color-stop(64.51613%, rgba(0, 0, 0, 0)), color-stop(64.51613%, rgba(100, 100, 225, 0.25)), color-stop(74.19355%, rgba(100, 100, 225, 0.25)), color-stop(74.19355%, rgba(0, 0, 0, 0)), color-stop(77.41935%, rgba(0, 0, 0, 0)), color-stop(77.41935%, rgba(100, 100, 225, 0.25)), color-stop(87.09677%, rgba(100, 100, 225, 0.25)), color-stop(87.09677%, rgba(0, 0, 0, 0)), color-stop(90.32258%, rgba(0, 0, 0, 0)), color-stop(90.32258%, rgba(100, 100, 225, 0.25)), color-stop(100.0%, rgba(100, 100, 225, 0.25)), color-stop(100.0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0)));
@@ -389,7 +396,7 @@ header, #main-content, footer {
     -moz-background-clip: content-box;
     background-clip: content-box; } }
 @media (min-width: 940px) {
-  /* line 43, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 46, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
     max-width: 940px;
     background-image: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(0%, rgba(100, 100, 225, 0.25)), color-stop(6.38298%, rgba(100, 100, 225, 0.25)), color-stop(6.38298%, rgba(0, 0, 0, 0)), color-stop(8.51064%, rgba(0, 0, 0, 0)), color-stop(8.51064%, rgba(100, 100, 225, 0.25)), color-stop(14.89362%, rgba(100, 100, 225, 0.25)), color-stop(14.89362%, rgba(0, 0, 0, 0)), color-stop(17.02128%, rgba(0, 0, 0, 0)), color-stop(17.02128%, rgba(100, 100, 225, 0.25)), color-stop(23.40426%, rgba(100, 100, 225, 0.25)), color-stop(23.40426%, rgba(0, 0, 0, 0)), color-stop(25.53191%, rgba(0, 0, 0, 0)), color-stop(25.53191%, rgba(100, 100, 225, 0.25)), color-stop(31.91489%, rgba(100, 100, 225, 0.25)), color-stop(31.91489%, rgba(0, 0, 0, 0)), color-stop(34.04255%, rgba(0, 0, 0, 0)), color-stop(34.04255%, rgba(100, 100, 225, 0.25)), color-stop(40.42553%, rgba(100, 100, 225, 0.25)), color-stop(40.42553%, rgba(0, 0, 0, 0)), color-stop(42.55319%, rgba(0, 0, 0, 0)), color-stop(42.55319%, rgba(100, 100, 225, 0.25)), color-stop(48.93617%, rgba(100, 100, 225, 0.25)), color-stop(48.93617%, rgba(0, 0, 0, 0)), color-stop(51.06383%, rgba(0, 0, 0, 0)), color-stop(51.06383%, rgba(100, 100, 225, 0.25)), color-stop(57.44681%, rgba(100, 100, 225, 0.25)), color-stop(57.44681%, rgba(0, 0, 0, 0)), color-stop(59.57447%, rgba(0, 0, 0, 0)), color-stop(59.57447%, rgba(100, 100, 225, 0.25)), color-stop(65.95745%, rgba(100, 100, 225, 0.25)), color-stop(65.95745%, rgba(0, 0, 0, 0)), color-stop(68.08511%, rgba(0, 0, 0, 0)), color-stop(68.08511%, rgba(100, 100, 225, 0.25)), color-stop(74.46809%, rgba(100, 100, 225, 0.25)), color-stop(74.46809%, rgba(0, 0, 0, 0)), color-stop(76.59574%, rgba(0, 0, 0, 0)), color-stop(76.59574%, rgba(100, 100, 225, 0.25)), color-stop(82.97872%, rgba(100, 100, 225, 0.25)), color-stop(82.97872%, rgba(0, 0, 0, 0)), color-stop(85.10638%, rgba(0, 0, 0, 0)), color-stop(85.10638%, rgba(100, 100, 225, 0.25)), color-stop(91.48936%, rgba(100, 100, 225, 0.25)), color-stop(91.48936%, rgba(0, 0, 0, 0)), color-stop(93.61702%, rgba(0, 0, 0, 0)), color-stop(93.61702%, rgba(100, 100, 225, 0.25)), color-stop(100%, rgba(100, 100, 225, 0.25)), color-stop(100%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0)));
@@ -407,7 +414,7 @@ header, #main-content, footer {
     -moz-background-clip: content-box;
     background-clip: content-box; } }
 @media (min-width: 1260px) {
-  /* line 43, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 46, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
     max-width: 1260px;
     background-image: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(0%, rgba(100, 100, 225, 0.25)), color-stop(4.7619%, rgba(100, 100, 225, 0.25)), color-stop(4.7619%, rgba(0, 0, 0, 0)), color-stop(6.34921%, rgba(0, 0, 0, 0)), color-stop(6.34921%, rgba(100, 100, 225, 0.25)), color-stop(11.11111%, rgba(100, 100, 225, 0.25)), color-stop(11.11111%, rgba(0, 0, 0, 0)), color-stop(12.69841%, rgba(0, 0, 0, 0)), color-stop(12.69841%, rgba(100, 100, 225, 0.25)), color-stop(17.46032%, rgba(100, 100, 225, 0.25)), color-stop(17.46032%, rgba(0, 0, 0, 0)), color-stop(19.04762%, rgba(0, 0, 0, 0)), color-stop(19.04762%, rgba(100, 100, 225, 0.25)), color-stop(23.80952%, rgba(100, 100, 225, 0.25)), color-stop(23.80952%, rgba(0, 0, 0, 0)), color-stop(25.39683%, rgba(0, 0, 0, 0)), color-stop(25.39683%, rgba(100, 100, 225, 0.25)), color-stop(30.15873%, rgba(100, 100, 225, 0.25)), color-stop(30.15873%, rgba(0, 0, 0, 0)), color-stop(31.74603%, rgba(0, 0, 0, 0)), color-stop(31.74603%, rgba(100, 100, 225, 0.25)), color-stop(36.50794%, rgba(100, 100, 225, 0.25)), color-stop(36.50794%, rgba(0, 0, 0, 0)), color-stop(38.09524%, rgba(0, 0, 0, 0)), color-stop(38.09524%, rgba(100, 100, 225, 0.25)), color-stop(42.85714%, rgba(100, 100, 225, 0.25)), color-stop(42.85714%, rgba(0, 0, 0, 0)), color-stop(44.44444%, rgba(0, 0, 0, 0)), color-stop(44.44444%, rgba(100, 100, 225, 0.25)), color-stop(49.20635%, rgba(100, 100, 225, 0.25)), color-stop(49.20635%, rgba(0, 0, 0, 0)), color-stop(50.79365%, rgba(0, 0, 0, 0)), color-stop(50.79365%, rgba(100, 100, 225, 0.25)), color-stop(55.55556%, rgba(100, 100, 225, 0.25)), color-stop(55.55556%, rgba(0, 0, 0, 0)), color-stop(57.14286%, rgba(0, 0, 0, 0)), color-stop(57.14286%, rgba(100, 100, 225, 0.25)), color-stop(61.90476%, rgba(100, 100, 225, 0.25)), color-stop(61.90476%, rgba(0, 0, 0, 0)), color-stop(63.49206%, rgba(0, 0, 0, 0)), color-stop(63.49206%, rgba(100, 100, 225, 0.25)), color-stop(68.25397%, rgba(100, 100, 225, 0.25)), color-stop(68.25397%, rgba(0, 0, 0, 0)), color-stop(69.84127%, rgba(0, 0, 0, 0)), color-stop(69.84127%, rgba(100, 100, 225, 0.25)), color-stop(74.60317%, rgba(100, 100, 225, 0.25)), color-stop(74.60317%, rgba(0, 0, 0, 0)), color-stop(76.19048%, rgba(0, 0, 0, 0)), color-stop(76.19048%, rgba(100, 100, 225, 0.25)), color-stop(80.95238%, rgba(100, 100, 225, 0.25)), color-stop(80.95238%, rgba(0, 0, 0, 0)), color-stop(82.53968%, rgba(0, 0, 0, 0)), color-stop(82.53968%, rgba(100, 100, 225, 0.25)), color-stop(87.30159%, rgba(100, 100, 225, 0.25)), color-stop(87.30159%, rgba(0, 0, 0, 0)), color-stop(88.88889%, rgba(0, 0, 0, 0)), color-stop(88.88889%, rgba(100, 100, 225, 0.25)), color-stop(93.65079%, rgba(100, 100, 225, 0.25)), color-stop(93.65079%, rgba(0, 0, 0, 0)), color-stop(95.2381%, rgba(0, 0, 0, 0)), color-stop(95.2381%, rgba(100, 100, 225, 0.25)), color-stop(100.0%, rgba(100, 100, 225, 0.25)), color-stop(100.0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0)));
@@ -425,82 +432,82 @@ header, #main-content, footer {
     -moz-background-clip: content-box;
     background-clip: content-box; } }
 @media (min-width: 620px) {
-  /* line 48, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 51, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .features {
     width: 100%;
     float: left;
     margin-right: 3.22581%; }
-    /* line 50, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 53, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .views-layouts {
       width: 48.3871%;
       float: left;
       margin-right: 3.22581%; }
-    /* line 52, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 55, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .stylesheets-sass-compass {
       width: 48.3871%;
       float: right;
       margin-right: 0; }
-    /* line 54, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 57, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .compass-plugins {
       width: 48.3871%;
       float: left;
       margin-right: 3.22581%; }
 
-  /* line 56, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 59, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .moreinfo {
     width: 100%;
     float: right;
     margin-right: 0; } }
 @media (min-width: 940px) {
-  /* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 63, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .features {
     width: 74.46809%;
     float: left;
     margin-right: 2.12766%; }
-    /* line 62, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 65, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .views-layouts {
       width: 31.42857%;
       float: left;
       margin-right: 2.85714%; }
-    /* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 67, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .stylesheets-sass-compass {
       width: 31.42857%;
       float: left;
       margin-right: 2.85714%; }
-    /* line 66, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 69, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .compass-plugins {
       width: 31.42857%;
       float: right;
       margin-right: 0; }
 
-  /* line 68, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 71, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .moreinfo {
     width: 23.40426%;
     float: right;
     margin-right: 0; } }
 @media (min-width: 1260px) {
-  /* line 72, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 75, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .features {
     width: 74.60317%;
     float: left;
     margin-right: 1.5873%; }
-    /* line 74, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 77, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .views-layouts {
       width: 31.91489%;
       float: left;
       margin-right: 2.12766%; }
-    /* line 76, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 79, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .stylesheets-sass-compass {
       width: 31.91489%;
       float: left;
       margin-right: 2.12766%; }
-    /* line 78, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 81, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
     .features .compass-plugins {
       width: 31.91489%;
       float: right;
       margin-right: 0; }
 
-  /* line 80, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 83, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
   .moreinfo {
     width: 23.80952%;
     float: right;
@@ -2241,31 +2248,67 @@ header, #main-content, footer {
   content: "\f196"; }
 
 /* line 20, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
-h1 {
-  color: #999999;
-  text-transform: uppercase;
-  line-height: 1em; }
+body {
+  background-color: black;
+  background-image: url(/images/a4-evolution.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  color: white;
+  min-height: 1200px;
+  font-family: "ff-meta-serif-web-pro", serif; }
 
-/* line 24, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 30, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+header {
+  height: 30em; }
+
+/* line 33, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+h1 {
+  color: #eeeeee;
+  text-transform: uppercase;
+  line-height: 1em;
+  font-family: "neuzon", sans-serif; }
+
+/* line 38, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h2 {
   line-height: 1.3em; }
 
-/* line 26, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 40, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 kbd {
   background-color: whitesmoke;
   border: 1px solid #dedede;
   padding: 0px 3px 2px; }
 
-/* line 30, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 44, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 footer {
   margin-top: 3em;
   text-align: right; }
 
-/* line 36, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 50, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 .container img {
   max-width: 100%;
   height: auto; }
 
+/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+h1 {
+  font-size: 1.5em; }
+
+/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+h1 {
+  font-size: 1.5em; }
+
+/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+h1 {
+  font-size: 1.5em; }
+
+@media (min-width: 620px) {
+  /* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  h1 {
+    font-size: 2em; } }
+@media (min-width: 940px) {
+  /* line 68, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  h1 {
+    font-size: 3em; } }
 @media print {
   /* line 11, /Users/jarkko/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   * {
