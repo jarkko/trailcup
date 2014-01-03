@@ -352,11 +352,11 @@ textarea {
     clear: both; }
 
 /* line 34, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-header, #main-content, footer {
+header, #main-content, #main, footer {
   overflow: hidden;
   *zoom: 1; }
   /* line 38, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  header h1, #main-content h1, footer h1 {
+  header h1, #main-content h1, #main h1, footer h1 {
     width: 48.3871%;
     float: right;
     margin-right: 0;
@@ -377,85 +377,61 @@ header, #main-content, footer {
     max-width: 1260px; } }
 @media (min-width: 620px) {
   /* line 51, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .features {
+  #main {
     width: 100%;
     float: left;
     margin-right: 3.22581%; }
     /* line 53, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .views-layouts {
+    #main #description {
       width: 48.3871%;
       float: left;
       margin-right: 3.22581%; }
     /* line 55, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .stylesheets-sass-compass {
+    #main #schedule {
       width: 48.3871%;
       float: right;
       margin-right: 0; }
     /* line 57, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .compass-plugins {
-      width: 48.3871%;
+    #main #details {
+      width: 100%;
       float: left;
-      margin-right: 3.22581%; }
-
-  /* line 59, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .moreinfo {
-    width: 100%;
-    float: right;
-    margin-right: 0; } }
+      margin-right: 3.22581%; } }
 @media (min-width: 940px) {
-  /* line 63, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .features {
-    width: 74.46809%;
+  /* line 61, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  #main {
+    width: 82.97872%;
     float: left;
-    margin-right: 2.12766%; }
+    margin-right: 2.12766%;
+    padding-left: 8.51064%;
+    padding-right: 8.51064%; }
     /* line 65, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .views-layouts {
-      width: 31.42857%;
+    #main #description {
+      width: 48.71795%;
       float: left;
-      margin-right: 2.85714%; }
+      margin-right: 2.5641%; }
     /* line 67, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .stylesheets-sass-compass {
-      width: 31.42857%;
-      float: left;
-      margin-right: 2.85714%; }
-    /* line 69, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .compass-plugins {
-      width: 31.42857%;
+    #main #schedule {
+      width: 48.71795%;
       float: right;
-      margin-right: 0; }
-
-  /* line 71, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .moreinfo {
-    width: 23.40426%;
-    float: right;
-    margin-right: 0; } }
+      margin-right: 0; } }
 @media (min-width: 1260px) {
-  /* line 75, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .features {
+  /* line 72, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  #main {
     width: 74.60317%;
     float: left;
-    margin-right: 1.5873%; }
-    /* line 77, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .views-layouts {
-      width: 31.91489%;
+    margin-right: 1.5873%;
+    padding-left: 12.69841%;
+    padding-right: 12.69841%; }
+    /* line 76, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    #main #description {
+      width: 48.93617%;
       float: left;
       margin-right: 2.12766%; }
-    /* line 79, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .stylesheets-sass-compass {
-      width: 31.91489%;
-      float: left;
-      margin-right: 2.12766%; }
-    /* line 81, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-    .features .compass-plugins {
-      width: 31.91489%;
+    /* line 78, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    #main #schedule {
+      width: 48.93617%;
       float: right;
-      margin-right: 0; }
-
-  /* line 83, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
-  .moreinfo {
-    width: 23.80952%;
-    float: right;
-    margin-right: 0; } }
+      margin-right: 0; } }
 /*!
  *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -2207,50 +2183,55 @@ header {
   height: 30em; }
 
 /* line 33, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+#main {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+/* line 36, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   color: #eeeeee;
   text-transform: uppercase;
   line-height: 1em;
   font-family: "neuzon", sans-serif; }
 
-/* line 38, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 41, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h2 {
-  line-height: 1.3em; }
+  line-height: 1.3em;
+  font-family: "neuzon", sans-serif; }
 
-/* line 40, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 44, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 kbd {
   background-color: whitesmoke;
   border: 1px solid #dedede;
   padding: 0px 3px 2px; }
 
-/* line 44, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 48, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 footer {
   margin-top: 3em;
   text-align: right; }
 
-/* line 50, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 54, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 .container img {
   max-width: 100%;
   height: auto; }
 
-/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
-/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
-/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
 @media (min-width: 620px) {
-  /* line 64, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 68, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
   h1 {
     font-size: 2em; } }
 @media (min-width: 940px) {
-  /* line 68, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 72, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
   h1 {
     font-size: 3em; } }
 @media print {
