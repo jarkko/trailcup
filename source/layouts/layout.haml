@@ -32,13 +32,18 @@
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
     .container
       %header
-        %h1= current_page.data.title
+        %h1
+          Inov-8
+          %br
+          Tampere
+          %br
+          Trail Cup
       #main-content{:role => "main"}
         -# Page content gets rendered here
         = yield
 
       %footer
-        %p &copy; #{copyright_years(2014)} Tampere Trail Cup
+        %p
 
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
     :javascript
