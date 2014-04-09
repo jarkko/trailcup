@@ -25,6 +25,12 @@ require 'susy'
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
 
+
+activate :blog do |blog|
+  # set options on blog
+  blog.prefix = "uutiset"
+end
+
 ###
 # Page command
 ###
