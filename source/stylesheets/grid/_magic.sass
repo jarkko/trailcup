@@ -31,10 +31,53 @@ $break-huge:    16
   // Apply our grid background stripes for development.
   //@include susy-grid-background
 
-header, #main-content, #main, footer
+  nav
+    ul
+      font-size: 120%
+      font-weight: bold
+      
+      li
+        padding-top: 1em
+    ol
+      list-style: decimal
+  
+    ul, ol
+      @include span-columns(8, 8)
+      +inline-block-list
+      margin-bottom: 1em
+      text-align: center
+
+      li
+        box-sizing: border-box
+        width: 210px
+        text-align: center
+        position: relative
+        padding:
+          bottom: 1em
+          top: 1em
+        
+        a
+          text-decoration: none
+          color: #fff
+        
+        .name
+          font-weight: bold
+          color: #ff7e1f
+        
+        .num
+          position: absolute
+          left: 20%
+          top: 0
+          font-size: 300%
+          z-index: 1
+          opacity: 0.3
+          font-family: "neuzon",sans-serif
+
+header, #main-content, #main, footer, nav
   // Clearfix for full-width elements
   @include clearfix
 
+header
   h1
     @include span-columns(4 omega, 8)
 

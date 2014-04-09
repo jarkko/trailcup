@@ -11,6 +11,8 @@ gem "compass", "~> 0.12.2"
 gem "susy", "~> 1.0.9"
 gem "compass-h5bp", "~> 0.1.2" # HTML5 Boilerplate styles
 
+gem "middleman-smusher"
+
 # Font Awesome icons
 gem "font-awesome-middleman", "~> 4.0.3"
 

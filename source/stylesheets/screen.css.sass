@@ -9,6 +9,8 @@
 @include h5bp-normalize
 @include h5bp-base-styles
 
+@import "compass/typography/lists/inline-block-list"
+
 // Susy Grid Systems - choose one to customize
 // @import "grid/fixed"
 @import "grid/magic"
@@ -28,10 +30,14 @@ body
   font-family: "ff-meta-serif-web-pro",serif
 
 header
-  height: 30em
 
-#main
+#main, nav
   background-color: rgba(0,0,0,0.5)
+
+nav
+  li:hover
+    background-color: rgba(255,255,255,0.2)
+
 
 h1
   color: #eee

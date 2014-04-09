@@ -39,6 +39,72 @@
           Tampere
           %br
           Trail Cup
+          
+      %nav
+        %ul#main-nav
+          %li
+            = link_to "Etusivu", "/"
+          %li
+            = link_to "Uutiset", "/uutiset/"
+          %li
+            = link_to "Yleisinfo", "/2014/info/"
+          %li
+            = link_to "Tulokset", "/2014/tulokset/"
+          %li
+            = link_to "Ilmoittaudu", "/2014/ilmo"
+
+
+        %ol#osakisat
+          %li
+            = link_to "/2014/kisat/lamminpaa" do
+              .num
+                1
+              .name
+                HieroJari-stage
+              .place
+                Lamminpää
+              .date
+                6.5.2014
+          %li
+            = link_to "/2014/kisat/kauppi" do
+              .num
+                2
+              .name
+                Gopal-stage
+              .place
+                Kauppi
+              .date
+                13.5.2014
+          %li
+            = link_to "/2014/kisat/lukonmaki" do
+              .num
+                3
+              .name
+                Navigeist-stage
+              .place
+                Hervannan laskettelukeskus
+              .date
+                20.5.2014
+          %li
+            = link_to "/2014/kisat/niihama" do
+              .num
+                4
+              .name
+                Mikon leipä -stage
+              .place
+                Niihaman maja
+              .date
+                27.5.2014
+          %li
+            = link_to "/2014/kisat/suolijarvi" do
+              .num
+                5
+              .name
+                Fast-stage
+              .place
+                Suolijärven maja
+              .date
+                3.6.2014
       #main-content{:role => "main"}
         -# Page content gets rendered here
         = yield
