@@ -24,11 +24,12 @@ require 'susy'
 
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
-
+activate :i18n, :langs => [:fi]
 
 activate :blog do |blog|
   # set options on blog
   blog.prefix = "uutiset"
+  blog.layout = "blog"
 end
 
 ###

@@ -1,0 +1,8 @@
+= wrap_layout :layout do
+  %section#main
+
+    %h1= current_page.data.title
+
+    #blog-post
+      = yield
+
