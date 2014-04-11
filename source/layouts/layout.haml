@@ -33,13 +33,14 @@
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
     .container
       %header
-        %h1
-          Inov-8
-          %br
-          Tampere
-          %br
-          Trail Cup
-          
+        = link_to "/" do
+          %h1
+            Inov-8
+            %br
+            Tampere
+            %br
+            Trail Cup
+
       %nav
         %ul#main-nav
           %li
@@ -110,8 +111,20 @@
         = yield
 
       %footer
-        %p
+        %div
+          %p
+            Sponsored by
+          %p
+            = link_to "http://www.inov-8.com" do
+              %img{src: "/images/inow-white-2-150.png"}
 
+            = link_to "http://navigeist.com" do
+              %img{src: "/images/navigeist.png"}
+          %p
+            = link_to "http://www.fast.fi/" do
+              %img{src: "/images/fast-logo.png"}
+            = link_to "http://www.gopal.fi/", id: "gopal" do
+              %img{src: "/images/Gopal_logo.png"}
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
     :javascript
       window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.10.2.min.js"><\/script>')

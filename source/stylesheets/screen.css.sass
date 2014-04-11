@@ -10,6 +10,7 @@
 @include h5bp-base-styles
 
 @import "compass/typography/lists/inline-block-list"
+@import "compass/css3/border-radius"
 
 // Susy Grid Systems - choose one to customize
 // @import "grid/fixed"
@@ -30,14 +31,27 @@ body
   font-family: "ff-meta-serif-web-pro",serif
 
 header
-
-#main, nav
+  position: relative
+  a
+    display: block
+    width: 100%
+    height: 100%
+    color: #fff
+    text-decoration: none
+nav
   background-color: rgba(0,0,0,0.5)
+
+#main
+  padding-bottom: 2em
+  background-color: rgba(0,0,0,0.7)
+
+footer
+  background-color: rgba(0,0,0,0.8)
+
 
 nav
   li:hover
     background-color: rgba(255,255,255,0.2)
-
 
 h1
   color: #eee
@@ -51,9 +65,6 @@ kbd
   background-color: #f5f5f5
   border: 1px solid #dedede
   padding: 0px 3px 2px
-footer
-  margin-top: 3em
-  text-align: right
 
 a
   color: #ff7e1f
@@ -64,6 +75,31 @@ a
     max-width: 100%
     height: auto
 
+
+footer
+  vertical-align: bottom
+  position: relative
+  p
+    position: relative
+    overflow: hidden
+  a
+    padding: auto
+    display: inline-block
+    box-sizing: border-box
+    position: relative
+    max-width: 320px
+    height: 100%
+    text-decoration: none
+    margin:
+      right: 2em
+      top: 1em
+    &#gopal
+      padding: 5px
+      background-color: #fff
+    img
+      display: block
+      max-width: 100%
+      margin: auto
 
 // Automatically reset the grid width & re-apply the grid background
 // to responsive layouts.

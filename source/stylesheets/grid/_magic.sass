@@ -35,12 +35,10 @@ $break-huge:    16
     ul
       font-size: 120%
       font-weight: bold
-      
-      li
-        padding-top: 1em
+
     ol
       list-style: decimal
-  
+
     ul, ol
       @include span-columns(8, 8)
       +inline-block-list
@@ -53,21 +51,22 @@ $break-huge:    16
         overflow: hidden
         text-align: center
         position: relative
-        padding:
-          bottom: 1em
-          top: 1em
-        
+
         a
           overflow: hidden
           font-size: 90%
           text-decoration: none
           color: #fff
-        
+          padding:
+            bottom: 1em
+            top: 1em
+          display: block
+
         .name
           font-weight: bold
           color: #ff7e1f
           font-family: "neuzon",sans-serif
-        
+
         .num
           position: absolute
           left: 20%
@@ -80,6 +79,11 @@ $break-huge:    16
 header, #main-content, #main, footer, nav
   // Clearfix for full-width elements
   @include clearfix
+
+footer
+  div
+    @include span-columns(8)
+
 
 header
   h1
@@ -95,7 +99,7 @@ $layouts: $break-tablet, $break-desktop, $break-huge
       //@include susy-grid-background
 
 @include at-breakpoint($break-tablet)
-  #main
+  #main, footer > div
     @include span-columns(8)
     #description
       @include span-columns(4, 8)
@@ -105,7 +109,7 @@ $layouts: $break-tablet, $break-desktop, $break-huge
       @include span-columns(8)
 
 @include at-breakpoint($break-desktop)
-  #main
+  #main, footer > div
     @include span-columns(10, 12)
     @include prefix(1)
     @include suffix(1)
@@ -116,7 +120,7 @@ $layouts: $break-tablet, $break-desktop, $break-huge
 
 
 @include at-breakpoint($break-huge)
-  #main
+  #main, footer > div
     @include span-columns(12, 16)
     @include prefix(2)
     @include suffix(2)
