@@ -17,8 +17,9 @@ bodyclass: newproject
 
     %ul
       - blog.articles[0...5].each do |article|
-        = link_to article.title, article.url
-        %time= article.date.strftime('%d.%-m.')
+        %li
+          = link_to article.title, article.url
+          %time= article.date.strftime('%d.%-m.')
     
     %p
       = link_to "Lisää uutisia…", "/uutiset"
