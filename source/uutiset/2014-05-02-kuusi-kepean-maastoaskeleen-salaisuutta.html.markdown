@@ -51,7 +51,9 @@ Kuten voit edellisistä kohdista päätellä, maastojuoksijan nilkat joutuvat to
 
 Kun lisäät tehokkaaseen tieaskeleeseen nämä kuusi ominaisuutta, olet jo varsin vahvoilla maastossa. Nenällään saatat aika ajoin olla siitä huolimatta – sitä sattuu parhaissakin piireissä.
 
-Ja aivan kuten kaikissa lajeissa, parhaiten opit juoksemaan kovaa maastossa juoksemalla kovaa maastossa. Siihen on oiva tilaisuus ensimmäisen kerran ensi tiistaina Lamminpäässä. [Laita siis nimesi listalle jo tänään](http://trailcup.fi/2014/ilmo/)! 
+Ja aivan kuten kaikissa lajeissa, parhaiten opit juoksemaan kovaa maastossa juoksemalla kovaa maastossa. Siihen on oiva tilaisuus ensimmäisen kerran ensi tiistaina Lamminpäässä.
+
+[Laita siis nimesi listalle jo tänään](http://trailcup.fi/2014/ilmo/)! Arvomme kaikkien ennakkoilmoittautuneiden kesken parin Inov-8-kenkiä, joten älä aikaile.
 
 
 
