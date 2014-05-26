@@ -8,7 +8,7 @@ tags:
 
 Jouduimme siirtämään Mikon Leipä -stagen reittiä erinäisistä syistä pois Soukonvuoren luonnonsuojelualueelta. Tämän takia reitille tulee lisämittaa noin 1000 metriä. 
 
-Uusi reitti kääntyy Toimelantien, 750 metrin tieosuuden jälkeen vasemmalle kohti Näsijärven rantaa ja sen komeita kallioisia polkuja. Rannassa juoksijoiden ei kannata kuitenkaan liiaksi katsella järvimaisemia, koska polku on paikotellen hyvin vaativaa juostavaa. Haastavan rantaosuuden jälkeen juoksijat saapuvat Soukonvuorentielle, josta on maaliin on enää vain noin kilometri. Loppumatka seuraa alkuperäistä reittiä pitkin maaliin asti.
+Uusi reitti kääntyy Toimelantien 750 metrin tieosuuden jälkeen vasemmalle kohti Näsijärven rantaa ja sen komeita kallioisia polkuja. Rannassa juoksijoiden ei kannata kuitenkaan liiaksi katsella järvimaisemia, koska polku on paikotellen hyvin vaativaa juostavaa. Haastavan rantaosuuden jälkeen juoksijat saapuvat Soukonvuorentielle, josta on maaliin on enää vain noin kilometri. Loppumatka seuraa alkuperäistä reittiä pitkin maaliin asti.
 
 Uusi reitti:
 
