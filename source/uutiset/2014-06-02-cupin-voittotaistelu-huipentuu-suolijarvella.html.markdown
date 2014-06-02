@@ -8,6 +8,8 @@ tags:
 
 Kevään 2014 [Inov-8 Trail Cup](http://trailcup.fi) vetelee viimeisiään ja cupin finaali käydään tiistaina 3.6. Fast-stagen merkeissä Suolijärven maastoissa. Urheilujuhlaa paikan päällä seuraavan yleisön ja itse kilpailijoiden tiedoksi analysoimme hiukan neljän osakilpailun yhteistuloksia saadaksemme käsityksen siitä, kenellä on mahdollisuuksia kokonaiskilpailussa palkittavien joukkoon.
 
+### Miehissä tiukka voittokamppailu
+
 Miehissä kokonaiskilpailua johtaa reilulla lähes 200 pisteen marginaalilla Tampereen Pyrinnön Pekka Itävuo. Toisena yhteispisteissä keikkuu Petotiimin Jouko Liuha ja kolmantena Sandvikin Harri Räty. Aikaisempien osakilpailujen pisteiden valossa voidaan jo todeta, että Liuhalla ja Rädyllä ei ole enää edes teoreettisia mahdollisuuksia Itävuon ohittamiseen kokonaiskilpailua silmällä pitäen. Rädyn on kuitenkin vielä mahdollista ohittaa Liuha, mikäli Sandvikin mies yltää Suolijärvellä vähintään 962 pisteeseen sillä edellytyksellä, että Liuha merkkauttaa samanaikaisesti sarjan heikoimmat pisteensä (alle 914).
 
 Vaikkei Liuhasta ja Rädystä ole enää kokonaiskisassa Itävuon haastajaksi, löytyy tuloksista kuitenkin vielä yksi mies, joka voi onnistuessaan uhata Pyrinnön miehen mestaruutta. KeparDIn Mikko Knuuttila jätti Lukonmäessä kisatun Navigeist-stagen väliin ja tarvitsee kipeästi Suolijärveltä hyviä pisteitä yltääkseen kokonaiskilpailun voittoon. Kaikki on täysin miehen omissa käsissä, sillä yltäessään Fast-stagella Itävuon voittaessakin vähintään 976 pisteeseen hoitaa Knuuttila homman kotiin.
@@ -16,7 +18,7 @@ Palkintokorokkeelle omaa loistavat mahdollisuudet myös Erigeepper Challengen Ti
 
 Mikäli Tiilikainen ei löydä tiistaina paikalle on tällä hetkellä kokonaistilanteessa neljäntenä oleva Hannu Hovila kiinni viimeisessä palkintosijassa. Knuuttilan tiedetään jo ilmoittautuneen viimeiseen osakilpailuun, joten voittotaistelusta tulee taatusti jännittävä kamppailu KeparDIn juoksijan ja Itävuon kesken.
 
-Naisissa kärkisijat jo ratkenneet
+### Naisissa kärkisijat jo ratkenneet
 
 Kangasala SK:n parivaljakko Ojanen-Papinsaari on hienoilla juoksuillaan varmistanut jo kokonaiskilpailun kaksoisvoiton ennen viimeistä osakilpailua. Ojasen kolme peräkkäistä osakilpailuvoittoa oli liian kova aloitus muille ja hänen onnistui näin ollen varmistaa mestaruutensa jo Mikon leipä -stagella. Papinsaari on myös esiintynyt sarjassa tasaisen vahvasti osakilpailusta toiseen, mikä riitti tällä kertaa selvään kakkostilaan.
 
