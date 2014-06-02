@@ -4,8 +4,6 @@ date: 2014-06-02 12:45 UTC
 tags:
 ---
 
-# Inov-8 Trail Cupin Voittotaistelu huipentuu Suolijärvellä
-
 [![Itävuo ja Knuuttila voittotaistossa](https://farm6.staticflickr.com/5236/14327175162_dabefa07ea_b_d.jpg)](https://www.flickr.com/photos/jarkko/14327175162/)
 
 Kevään 2014 [Inov-8 Trail Cup](http://trailcup.fi) vetelee viimeisiään ja cupin finaali käydään tiistaina 3.6. Fast-stagen merkeissä Suolijärven maastoissa. Urheilujuhlaa paikan päällä seuraavan yleisön ja itse kilpailijoiden tiedoksi analysoimme hiukan neljän osakilpailun yhteistuloksia saadaksemme käsityksen siitä, kenellä on mahdollisuuksia kokonaiskilpailussa palkittavien joukkoon.
