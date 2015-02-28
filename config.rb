@@ -4,6 +4,7 @@
 
 # Susy grids in Compass
 require 'susy'
+activate :livereload
 
 # Change Compass configuration
 # compass_config do |config|
@@ -123,7 +124,6 @@ configure :build do
 
   # Or use a different image path
   # set :http_path, "/Content/images/"
-  activate :livereload
 end
 
 # Requires middleman-deploy and rsync

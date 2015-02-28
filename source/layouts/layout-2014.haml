@@ -48,64 +48,64 @@
           %li
             = link_to "Uutiset", "/uutiset/"
           %li
-            = link_to "Yleisinfo", "/2015/info/"
+            = link_to "Yleisinfo", "/2014/info/"
           %li
-            = link_to "Tulokset", "/2015/tulokset/"
+            = link_to "Tulokset", "/2014/tulokset/"
           %li
-            = link_to "2014", "/2014/"
+            = link_to "2015", "/"
 
 
         %ol#osakisat
           %li
-            = link_to "/2015/kisat/kauppi" do
+            = link_to "/2014/kisat/lamminpaa" do
               .num
                 1
               .name
-                Stage
-              .place
-                Kauppi
-              .date
-                5.5.2015
-          %li
-            = link_to "/2015/kisat/lamminpaa" do
-              .num
-                2
-              .name
-                Stage
+                HieroJari-stage
               .place
                 Lamminpää
               .date
-                12.5.2015
+                6.5.2014
           %li
-            = link_to "/2015/kisat/suolijarvi" do
+            = link_to "/2014/kisat/kauppi" do
+              .num
+                2
+              .name
+                Gopal-stage
+              .place
+                Kauppi
+              .date
+                13.5.2014
+          %li
+            = link_to "/2014/kisat/lukonmaki" do
               .num
                 3
               .name
-                Stage
-              .place
-                Suolijärven maja
-              .date
-                19.5.2015
-          %li
-            = link_to "/2015/kisat/lukonmaki" do
-              .num
-                4
-              .name
-                Stage
+                Navigeist-stage
               .place
                 Hervannan laskettelukeskus
               .date
-                26.5.2015
+                20.5.2014
           %li
-            = link_to "/2015/kisat/niihama" do
+            = link_to "/2014/kisat/niihama" do
               .num
-                5
+                4
               .name
-                HieroJari-stage
+                Mikon leipä -stage
               .place
                 Niihaman maja
               .date
-                2.6.2015
+                27.5.2014
+          %li
+            = link_to "/2014/kisat/suolijarvi" do
+              .num
+                5
+              .name
+                Fast-stage
+              .place
+                Suolijärven maja
+              .date
+                3.6.2014
       #main-content{:role => "main"}
         -# Page content gets rendered here
         = yield
@@ -117,6 +117,12 @@
           %p
             = link_to "http://www.inov-8.com" do
               %img{src: "/images/inow-white-2-150.png"}
+
+            = link_to "http://navigeist.com" do
+              %img{src: "/images/navigeist.png"}
+          %p
+            = link_to "http://www.fast.fi/" do
+              %img{src: "/images/fast-logo.png"}
             = link_to "http://www.gopal.fi/", id: "gopal" do
               %img{src: "/images/Gopal_logo.png"}
           %p
@@ -124,7 +130,6 @@
               %img{src: "/images/hierojarilogo.jpg"}
             = link_to "http://www.mikonleipa.fi/" do
               %img{src: "/images/mikon-leipa.png"}
-
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
     :javascript
       window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.10.2.min.js"><\/script>')

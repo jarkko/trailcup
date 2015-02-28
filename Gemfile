@@ -1,27 +1,27 @@
-source "https://rubygems.org"
+# If you do not have OpenSSL installed, update
+# the following line to use "http://" instead
+source 'https://rubygems.org'
 
-gem "middleman", "~> 3.2.0"
+# Middleman Gems
+gem 'middleman', '~> 4.0.0.alpha.6'
+gem 'middleman-livereload'
+
+# For faster file watcher updates on Windows:
+gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
+
+# Windows does not come with time zone data
+gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem 'middleman-gh-pages'
-# gem "middleman-deploy"
-# gem "middleman-favicon-maker", "~> 3.2"
 
-gem "compass", "~> 0.12.2"
+gem "compass", "~> 1.0.3"
 
 # Compass plugins
-gem "susy", "~> 1.0.9"
+gem "susy", "~> 2.2.2"
 gem "compass-h5bp", "~> 0.1.2" # HTML5 Boilerplate styles
 
 gem "middleman-smusher"
 gem "nokogiri"
-gem "middleman-blog"
+gem "builder"
+gem "middleman-blog", "~> 3.6.0.beta.2"
 # Font Awesome icons
 gem "font-awesome-middleman", "~> 4.0.3"
-
-# Javascript
-# gem "therubyracer"
-# gem "therubyrhino"
-
-### Windows specific gems ###
-platforms :mswin, :mingw do
-   gem "wdm", "~> 0.1.0" # Windows Directory Monitor
-end
