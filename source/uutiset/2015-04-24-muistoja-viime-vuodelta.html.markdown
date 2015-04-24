@@ -29,3 +29,7 @@ Muita blogijuttuja viime vuoden tapahtumista:
 * Terhi Martikaisen kisaraportit:
   * [Kaupin osakilpailu](http://www.fitlandia.fi/blogi/kisaraportti-inov-8-trail-cup-2-osakilpailu-13-5-2014-kauppi/)
   * [Suolijärven osakilpailu](http://www.fitlandia.fi/blogi/kisaraportti-trail-cup-suolijarvi-3-6-2014-ja-loppuverryttelyksi-soutua/)
+  
+Katso myös Juhani Pitkäsen video Lamminpäästä:
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t3JSv06zjNk" frameborder="0" allowfullscreen></iframe>
