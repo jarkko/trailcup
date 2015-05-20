@@ -7,8 +7,14 @@ bodyclass: newproject
   %h1 Tulokset
 
   %ul
-    %li= link_to "Mikon Leipä-stage (5.5.2015)", "https://events.navigeist.com/fi/events/2/legs/6/results"
-    %li= link_to "Hippa-stage (12.5.2015)", "https://events.navigeist.com/fi/events/2/legs/8/results"
-    %li= link_to "Fast-stage (19.5.2015)", "https://events.navigeist.com/fi/events/2/legs/9/results"
+    %li
+      == #{link_to "Mikon Leipä-stage (5.5.2015)", "https://events.navigeist.com/fi/events/2/legs/6/results"},
+      = link_to "kuva-albumi", "https://www.flickr.com/photos/131233811@N02/sets/72157650369473734/with/17578705015/"
+    %li
+      == #{link_to "Hippa-stage (12.5.2015)", "https://events.navigeist.com/fi/events/2/legs/8/results"},
+      = link_to "kuva-albumi", "https://www.flickr.com/photos/131233811@N02/sets/72157650369473734/with/17578705015/"
+    %li
+      == #{link_to "Fast-stage (19.5.2015)", "https://events.navigeist.com/fi/events/2/legs/9/results"},
+      = link_to "kuva-albumi", "https://www.flickr.com/photos/131233811@N02/sets/72157650369473734/with/17578705015/"
     %li
       %strong= link_to "Kokonaistilanne", "https://events.navigeist.com/fi/events/2/total_results"
