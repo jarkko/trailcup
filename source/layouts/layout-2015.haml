@@ -48,103 +48,91 @@
           %li
             = link_to "Uutiset", "/uutiset/"
           %li
-            = link_to "Yleisinfo", "/2016/info/"
-          / %li
-          /   = link_to "Tulokset", "/2016/tulokset/"
-          / %li
-          /   = link_to "Polkujuoksukoulu", "/2015/polkujuoksukoulu/"
+            = link_to "Yleisinfo", "/2015/info/"
+          %li
+            = link_to "Tulokset", "/2015/tulokset/"
+          %li
+            = link_to "Polkujuoksukoulu", "/2015/polkujuoksukoulu/"
           %li#ilmo-link
-            = link_to "Ilmoittautuminen", "/2016/ilmo/"
+            = link_to "Ilmoittautuminen", "/2015/ilmo/"
           %li
             = link_to "2014", "/2014/"
-          %li
-            = link_to "2015", "/2015/"
 
 
         %ol#osakisat
           %li
-            = link_to "/2016/kisat/toivio" do
+            = link_to "/2015/kisat/kauppi" do
               .num
                 1
               .name
-                stage
-              .place
-                Toivion koulu
-              .date
-                26.4.2016
-          %li
-            = link_to "/2016/kisat/lamminpaa" do
-              .num
-                2
-              .name
-                stage
-              .place
-                Lamminpää
-              .date
-                3.5.2016
-          %li
-            = link_to "/2016/kisat/kauppi" do
-              .num
-                3
-              .name
-                stage
+                Mikon leipä -stage
               .place
                 Kauppi
               .date
-                10.5.2016
+                5.5.2015
           %li
-            = link_to "/2016/kisat/suolijarvi" do
+            = link_to "/2015/kisat/lamminpaa" do
               .num
-                4
+                2
               .name
-                stage
+                Hippa-stage
+              .place
+                Lamminpää
+              .date
+                12.5.2015
+          %li
+            = link_to "/2015/kisat/suolijarvi" do
+              .num
+                3
+              .name
+                Fast-stage
               .place
                 Suolijärven maja
               .date
-                17.5.2016
+                19.5.2015
           %li
-            = link_to "/2016/kisat/topintupa" do
+            = link_to "/2015/kisat/lukonmaki" do
+              .num
+                4
+              .name
+                Gopal-stage
+              .place
+                Hervannan laskettelukeskus
+              .date
+                26.5.2015
+          %li
+            = link_to "/2015/kisat/niihama" do
               .num
                 5
               .name
-                stage
-              .place
-                Topin tupa
-              .date
-                24.5.2016
-          %li
-            = link_to "/2016/kisat/niihama" do
-              .num
-                6
-              .name
-                stage
+                HieroJari-stage
               .place
                 Niihaman maja
               .date
-                31.5.2016
+                2.6.2015
       #main-content{:role => "main"}
         -# Page content gets rendered here
         = yield
 
       %footer
         %div
-          / %p
-          /   Sponsored by
-          / %p
-          /   = link_to "http://www.inov-8.com" do
-          /     %img{src: "/images/inow-white-2-150.png"}
-          /   = link_to "http://www.gopal.fi/", id: "gopal" do
-          /     %img{src: "/images/Gopal_logo.png"}
-          / %p
-          /   = link_to "http://www.hierojari.fi/" do
-          /     %img{src: "/images/hierojarilogo.jpg"}
-          /   = link_to "http://www.mikonleipa.fi/" do
-          /     %img{src: "/images/mikon-leipa.png"}
-          / %p
-          /   = link_to "http://www.fast.fi/" do
-          /     %img{src: "/images/fast-logo.png"}
-          /   = link_to "http://www.hippa.fi/" do
-          /     %img{src: "/images/hippa_perheliikuntakeskus_logo_nega.png"}
+          %p
+            Sponsored by
+          %p
+            = link_to "http://www.inov-8.com" do
+              %img{src: "/images/inow-white-2-150.png"}
+            = link_to "http://www.gopal.fi/", id: "gopal" do
+              %img{src: "/images/Gopal_logo.png"}
+          %p
+            = link_to "http://www.hierojari.fi/" do
+              %img{src: "/images/hierojarilogo.jpg"}
+            = link_to "http://www.mikonleipa.fi/" do
+              %img{src: "/images/mikon-leipa.png"}
+          %p
+            = link_to "http://www.fast.fi/" do
+              %img{src: "/images/fast-logo.png"}
+            = link_to "http://www.hippa.fi/" do
+              %img{src: "/images/hippa_perheliikuntakeskus_logo_nega.png"}
 
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
     :javascript
