@@ -18,7 +18,7 @@ Naisten sarjassa kovinta vauhtia Toivion poluilla piti KeparDIn Tiia Miettinen, 
 
 [![](https://farm2.staticflickr.com/1625/26662096135_9836a30b26_k_d.jpg)](https://www.flickr.com/photos/131233811@N02/26662096135/in/album-72157665296897503/)
 
-Ensi viikolla Trail Cup jatkuu Perheliikuntakeskus Hippa –stagen merkeissä Lamminpään majalla tiistaina 3.5. Harjumaastossa kulkeva kuuden kilometrin kiitosta kerännyt reitti tarjoaa nopeaa pohjaa, mutta myös todella teknisiä osuuksia. Lamminpäässä on viimevuotiseen tapaan myös lasten kilpailu puoli tuntia ennen aikuisten starttia. Tervetuloa mukaan juoksemaan ja koettamaan onneanne arvontapalkintojen merkeissä! 
+Ensi viikolla Trail Cup jatkuu [Perheliikuntakeskus Hippa –stagen](http://trailcup.fi/2016/kisat/lamminpaa/) merkeissä Lamminpään majalla tiistaina 3.5. Harjumaastossa kulkeva kuuden kilometrin kiitosta kerännyt reitti tarjoaa nopeaa pohjaa, mutta myös todella teknisiä osuuksia. Lamminpäässä on viimevuotiseen tapaan myös lasten kilpailu puoli tuntia ennen aikuisten starttia. Tervetuloa mukaan juoksemaan ja koettamaan onneanne arvontapalkintojen merkeissä! 
 
 #### Inov-8 Trail Cup Tampere, Hierojari-stage, Toivion koulu, 26.4., 7km
 
