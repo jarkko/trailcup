@@ -1,0 +1,125 @@
+!!! 5
+/[if lt IE 7] <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+/[if IE 7]    <html class="no-js lt-ie9 lt-ie8">
+/[if IE 8]    <html class="no-js lt-ie9">
+<!--[if gt IE 8]><!-->
+%html{:class => "no-js"}
+  <!--<![endif]-->
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{'http-equiv' => "X-UA-Compatible", :content =>"IE=edge"}
+
+    -# Pull in the page title
+    %title== #{current_page.data.title} – Inov-8 Tampere Trail Cup
+
+    %meta{:name => "description", :content => ""}
+    %meta{:name => "author", :content => ""}
+    -# You may wish to remove the 'initial scale=1.0' for non-responsive layouts
+    %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
+    %meta{:name => "google-site-verification", :content => "J4vzUtz1Sg4iJATmmXssJIIiSIXLhOyZGnnr3S6txw4"}
+
+    = javascript_include_tag "//use.typekit.net/fhv4aew.js"
+    :javascript
+      try{Typekit.load();}catch(e){}
+
+    -# Place favicon.ico and apple-touch-icon(s) in the root directory
+
+    = stylesheet_link_tag "screen"
+    = javascript_include_tag "libs/modernizr-2.7.1.min"
+
+  %body{:class => current_page.data.bodyclass}
+    /[if lt IE 8]
+      %p.browsehappy
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+    .container
+      %header
+        = link_to "/" do
+          %h1
+            Inov-8
+            %br
+            Tampere
+            %br
+            Trail Cup
+
+      %nav
+        %ul#main-nav
+          %li
+            = link_to "Etusivu", "/"
+          %li
+            = link_to "Uutiset", "/uutiset/"
+          %li
+            = link_to "Yleisinfo", "/2016/info/"
+          %li
+            = link_to "Tulokset", "/2016/tulokset/"
+          %li
+            = link_to "Polkujuoksukoulu", "/2016/polkujuoksukoulu/"
+          %li#ilmo-link
+            = link_to "Ilmoittautuminen", "/kauppitrail/2016/ilmo/"
+          %li
+            = link_to "Kauppi Trail 17.7.", "/kauppitrail/"
+          %li
+            = link_to "2014", "/2014/"
+          %li
+            = link_to "2015", "/2015/"
+
+      #main-content{:role => "main"}
+        -# Page content gets rendered here
+        = yield
+
+      %footer
+        %div
+          %p
+            Sponsored by
+          %p
+            = link_to "http://www.inov-8.com" do
+              %img{src: "/images/inow-white-2-150.png"}
+            = link_to "http://www.gopal.fi/", id: "gopal" do
+              %img{src: "/images/Gopal_logo.png"}
+          %p
+            = link_to "http://www.hierojari.fi/" do
+              %img{src: "/images/hierojarilogo.jpg"}
+            = link_to "http://www.mikonleipa.fi/" do
+              %img{src: "/images/mikon-leipa.png"}
+          %p
+            = link_to "http://www.nonamesport.com/" do
+              %img{src: "/images/noname_logo.png"}
+            = link_to "http://www.nippeli.fi/" do
+              %img{src: "/images/nippeli_logo.png"}
+          %p
+            = link_to "http://www.fast.fi/" do
+              %img{src: "/images/fast-logo.png"}
+            = link_to "http://www.hippa.fi/" do
+              %img{src: "/images/hippa_perheliikuntakeskus_logo_nega.png"}
+
+    = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
+    :javascript
+      window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.10.2.min.js"><\/script>')
+
+    -# Holder.js - canvas-generated placeholder images for prototyping
+    = javascript_include_tag "libs/holder"
+
+    = javascript_include_tag "plugins", "script"
+
+    -# Google Analytics: change UA-XXXXX-X to be your site's ID.
+    :javascript
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-48731702-1', 'trailcup.fi');
+      ga('send', 'pageview');
+
+
+    :javascript
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '53185045e32bb44966002814');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
