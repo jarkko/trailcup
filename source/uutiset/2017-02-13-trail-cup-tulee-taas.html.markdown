@@ -1,10 +1,8 @@
 ---
-title: Viimehetken muutos Kauppi Trailin juoksureittiin
+title: Trail Cup tulee taas keväällä 2017
 date: 2017-02-13 17:39 UTC
 tags:
 ---
-
-Trail Cup tulee taas keväällä 2017
 
 Vielä se voi tuntua kaukaiselta ja jopa ihmeelliseltä mutta kyllä, jo kolmen
 kuukauden kuluttua lumien alta paljastuu kauniit ja kimmoisat polut. Toukokuun
