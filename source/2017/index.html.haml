@@ -1,0 +1,39 @@
+---
+title:     Inov-8 Tampere Trail Cup
+bodyclass: newproject
+layout: layout-2017
+---
+
+%section#main
+  .intro
+    :markdown
+      ## Kun asfaltti ei riitä…
+
+  #description :markdown Inov-8 trail cup on viisiosainen polkujuoksusarja,
+  joka juostaan kuutena peräkkäisenä viikkona huhtikuun lopusta toukokuun
+  loppupuolelle 2017 eri puolilla Tamperetta. Kilpailu juostaan yhteislähdöllä
+  ja pääasiassa poluilla 5-10 km reiteillä. Tapahtuma on avoin kaikenikäisille
+  ja –kuntoisille liikkujille. Trail Cup esittelee osallistujilleen Tampereen
+  parhaita polkujuoksumaastoja tarjoten samalla mahdollisuuden itsensä
+  haastamiseen viikottain monipuolisilla reiteillä. Kokonaiskilpailun lisäksi
+  nopeimmat ja onnekkaimmat juoksijat palkitaan jokaisessa osakilpailussa.
+
+  #schedule
+    %h2 Uutiset
+
+    %ul
+      - blog.articles[0...5].each do |article|
+        %li
+          = link_to article.title, article.url
+          %time= article.date.strftime('%-d.%-m.')
+
+    %p
+      = link_to "Lisää uutisia…", "/uutiset"
+
+  #details
+    :markdown
+      ## Lisätiedot
+
+      Severi Kymäläinen, severi21@suomi24.fi, 050-4646122
+
+      ## Nähdään keväällä Tampereen poluilla!
