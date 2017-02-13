@@ -4,6 +4,8 @@ date: 2017-02-13 17:39 UTC
 tags:
 ---
 
+![](https://c2.staticflickr.com/8/7673/26473141963_5403b8d743_c.jpg)
+
 Vielä se voi tuntua kaukaiselta ja jopa ihmeelliseltä mutta kyllä, jo kolmen
 kuukauden kuluttua lumien alta paljastuu kauniit ja kimmoisat polut. Toukokuun
 koittaessa käydään siis jo neljännen kerran Inov-8 Trail Cup Tampereen
