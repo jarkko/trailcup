@@ -32,6 +32,52 @@ body
   min-height: 1200px
   font-family: "ff-meta-serif-web-pro",serif
 
+.container
+  nav
+    ul
+      font-size: 120%
+      font-weight: bold
+
+    ol
+      list-style: decimal
+
+    ul, ol
+      @include span-columns(8, 8)
+      +inline-block-list
+      margin-bottom: 1em
+      text-align: center
+
+      li
+        box-sizing: border-box
+        width: 180px
+        overflow: hidden
+        text-align: center
+        position: relative
+
+        a
+          overflow: hidden
+          font-size: 90%
+          text-decoration: none
+          color: #fff
+          padding:
+            bottom: 1em
+            top: 1em
+          display: block
+
+        .name
+          font-weight: bold
+          color: $inov-green
+          font-family: "neuzon",sans-serif
+
+        .num
+          position: absolute
+          left: 20%
+          top: 0
+          font-size: 300%
+          z-index: 1
+          opacity: 0.3
+          font-family: "neuzon",sans-serif
+
 header
   position: relative
   a
