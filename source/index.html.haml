@@ -18,9 +18,10 @@ layout: layout-2019
 
     %ul
       - blog.articles[0...5].each do |article|
+        - next if article.date.year < Date.today.year
         %li
           = link_to article.title, article.url
-          %time= article.date.strftime('%-d.%-m.')
+          %time= article.date.strftime('%-d.%-m.%-Y')
 
     %p
       = link_to "Lisää uutisia…", "/uutiset"
