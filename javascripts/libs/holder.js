@@ -8,7 +8,6 @@ Commercial use requires attribution.
 
 */
 
-
 var Holder = Holder || {};
 (function (app, win) {
 
