@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # Middleman Gems
-gem 'middleman', '~> 4.0.0.alpha.6'
+gem 'middleman', '~> 4.0'
 gem 'middleman-livereload'
 
 # For faster file watcher updates on Windows:
@@ -19,7 +19,6 @@ gem "compass", "~> 1.0.3"
 gem "susy", "~> 2.2.2"
 gem "compass-h5bp", "~> 0.1.2" # HTML5 Boilerplate styles
 
-gem "middleman-smusher"
 gem "nokogiri"
 gem "builder"
 gem "middleman-blog", "~> 3.6.0.beta.2"
