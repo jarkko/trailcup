@@ -1,6 +1,6 @@
 ---
 title: Inov-8-tapahtumia vuonna 2015
-date: 2014-12-02 15:52 UTC
+
 tags:
 ---
 

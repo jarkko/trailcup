@@ -1,6 +1,6 @@
 ---
 title: Trail Cup tulee taas keväällä 2017
-date: 2017-02-13 17:39 UTC
+
 tags:
 ---
 

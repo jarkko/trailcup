@@ -1,6 +1,6 @@
 ---
 title: Mikä avuksi, kun lihaksia kolottaa?
-date: 2014-04-24 16:12 UTC
+
 tags:
 ---
 

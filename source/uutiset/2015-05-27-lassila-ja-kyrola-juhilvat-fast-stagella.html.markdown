@@ -1,6 +1,6 @@
 ---
 title: Lassila ja Kyrölä jatkoivat voittokulkuaan Lukonmäessä
-date: 2015-04-27 10:02 UTC
+
 tags:
 ---
 
@@ -16,7 +16,7 @@ Naisissa KeparDIn Sonja Kyrölä hallitsi kilpailua voittaen maalissa yli kaksi 
 
 Trail Cup jatkuu siis ensi viikon tiistaina 2.6. Niihaman majalla Hierojari-stagen merkeissä. Viimeisessa osakilpailussa on luvassa paljon palkintoja, upeita yllätyksiä, saunomista ja kahvilatarjoilua ja ennen kaikkea loistava polkujuoksuelämys. Tervetuloa haastamaan itsesi poluille ja juoksun jälkeen koettamaan onneaan arvontapalkintojen merkeissä!
 
-* [Kuva-albumi kisasta, Heikki Virekunnas](https://www.flickr.com/photos/131233811@N02/sets/72157653083917320/)
+- [Kuva-albumi kisasta, Heikki Virekunnas](https://www.flickr.com/photos/131233811@N02/sets/72157653083917320/)
 
 ##Tulokset
 

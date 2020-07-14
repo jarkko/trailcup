@@ -1,6 +1,6 @@
 ---
 title: Kuusi kepeän maastoaskeleen salaisuutta
-date: 2014-05-02 08:56 UTC
+
 tags:
 ---
 
@@ -16,12 +16,12 @@ Tästä näkökulmasta ei ole yhtä oikeaa tapaa olla hyvä maastojuoksija. On k
 
 Miten maastoaskel sitten eroaa tie- tai rata-askeleesta?
 
-* Kontaktiaika on usein paljon pidempi.
-* Askeleen elastisuuden käyttö on käytännössä mahdotonta.
-* Alusta voi olla tasainen tai epätasainen. Et välttämättä tiedä, kumpaa se on vielä edellisellä askeleella.
-* Alusta voi olla pehmeä tai kova. Sama kuin edellisessä.
-* Jokainen askel on erilainen. Joudut usein lyhentämään tai pidentämään askelta lennossa hyvin lyhyellä varoitusajalla. Joskus askeleen suunta on 90 astetta eri suuntaan kuin edellisen.
-* "Askeleeseen" voi kuulua myös itsensä käsin ylöspäin repimistä.
+- Kontaktiaika on usein paljon pidempi.
+- Askeleen elastisuuden käyttö on käytännössä mahdotonta.
+- Alusta voi olla tasainen tai epätasainen. Et välttämättä tiedä, kumpaa se on vielä edellisellä askeleella.
+- Alusta voi olla pehmeä tai kova. Sama kuin edellisessä.
+- Jokainen askel on erilainen. Joudut usein lyhentämään tai pidentämään askelta lennossa hyvin lyhyellä varoitusajalla. Joskus askeleen suunta on 90 astetta eri suuntaan kuin edellisen.
+- "Askeleeseen" voi kuulua myös itsensä käsin ylöspäin repimistä.
 
 Näiden perusteella listaan nyt elintärkeitä ominaisuuksia hyvälle maastojuoksijalle.
 
@@ -35,7 +35,7 @@ Heti kun pääsin sanomasta, että askelta ei voi laskea kimmoisuuden varaan, k�
 
 ### Ketteryys
 
-Maastossa askeleet eivät ole veljiä keskenään. Joskus saatat täydestä vauhdista joutua ottamaan seuraavan askeleen 90 astetta sivulle. Juurakossa tai kunnon pirunpellolla askellus taas saattaa näyttää samalta kuin italowesternin luotisateessa. Juoksutekniikkaharjoittelu parantaa ketteryyttä, mutta lajinomaista ketteryyttä on vaikea kehittää äärimmilleen muuten kuin juoksemalla maastossa. Lisäksi siinä auttaa  hyvä…
+Maastossa askeleet eivät ole veljiä keskenään. Joskus saatat täydestä vauhdista joutua ottamaan seuraavan askeleen 90 astetta sivulle. Juurakossa tai kunnon pirunpellolla askellus taas saattaa näyttää samalta kuin italowesternin luotisateessa. Juoksutekniikkaharjoittelu parantaa ketteryyttä, mutta lajinomaista ketteryyttä on vaikea kehittää äärimmilleen muuten kuin juoksemalla maastossa. Lisäksi siinä auttaa hyvä…
 
 ### Koko kehon hallinta
 
@@ -54,9 +54,3 @@ Kun lisäät tehokkaaseen tieaskeleeseen nämä kuusi ominaisuutta, olet jo vars
 Ja aivan kuten kaikissa lajeissa, parhaiten opit juoksemaan kovaa maastossa juoksemalla kovaa maastossa. Siihen on oiva tilaisuus ensimmäisen kerran ensi tiistaina Lamminpäässä.
 
 [Laita siis nimesi listalle jo tänään](http://trailcup.fi/2014/ilmo/)! Arvomme kaikkien ennakkoilmoittautuneiden kesken parin Inov-8-kenkiä, joten älä aikaile.
-
-
-
-
-
-

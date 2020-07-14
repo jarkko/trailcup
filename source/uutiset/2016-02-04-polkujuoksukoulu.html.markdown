@@ -1,6 +1,5 @@
 ---
 title: Polkukujuoksukoulu tulee taas
-date: 2016-02-04 07:39 UTC
 tags:
 ---
 

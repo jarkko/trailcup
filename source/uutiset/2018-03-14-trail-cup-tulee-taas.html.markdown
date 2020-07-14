@@ -1,6 +1,6 @@
 ---
 title: Inov-8 Trail Cup tulee taas vuonna 2018!
-date: 2018-03-14 07:39 UTC
+
 tags:
 ---
 
@@ -15,7 +15,7 @@ Kaudella 2017 Inov-8 Trail Cupissa nähtiin poluista ja luonnosta nautiskelevien
 ### Ohjelma 2018: (Tiistaisin, lähtö kello 18.00)
 
 1.  1.5. Kaupin urheilukeskus
-2. 8.5. Toivion koulu, Pirkkala
-3. 15.5. Suolijärven maja
-4. 22.5. Lamminpään maja (myös lasten kisa -12v.)
-5. 29.5. Niihaman maja
+2.  8.5. Toivion koulu, Pirkkala
+3.  15.5. Suolijärven maja
+4.  22.5. Lamminpään maja (myös lasten kisa -12v.)
+5.  29.5. Niihaman maja

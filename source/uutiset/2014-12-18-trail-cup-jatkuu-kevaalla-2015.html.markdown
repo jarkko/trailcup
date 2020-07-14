@@ -1,6 +1,6 @@
 ---
 title: Inov-8 Tampere trail cup jatkuu keväällä 2015
-date: 2014-12-18 14:02 UTC
+
 tags:
 ---
 
@@ -16,4 +16,4 @@ Toukokuun 2014 tiistai-illoissa Tampereen polut vallannut Inov-8 Trail Cup tulee
 
 Seuraa kotisivuja talven mittaan päivittyvien lisätietojen osalta. Luvassa muutamia uudistuksia viime kevääseen nähden!
 
-*Nähdään keväällä Tampereen poluilla!*
+_Nähdään keväällä Tampereen poluilla!_

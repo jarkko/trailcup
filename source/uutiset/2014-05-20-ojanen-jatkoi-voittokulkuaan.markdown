@@ -1,6 +1,6 @@
 ---
 title: Ojanen jatkoi voittokulkuaan inov-8 trail cupissa
-date: 2014-05-20 21:29 UTC
+
 tags:
 ---
 
@@ -13,6 +13,7 @@ Naisten sarjan kaksi ensimmäistä osakilpailua Lamminpäässä ja Kaupissa nimi
 Miesten sarjan voiton kuittasi itselleen KeparDIn Tuomo Istolahti tiputettuaan pahimmat kilpakumppaninsa kannoiltaan jo hyvissä ajoin ennen lopun vaativia nousuja. Pekka Itävuon toinen sija päivän kilpailussa nosti kuitenkin Pyrinnön miehen yhteistuloksissa kärkeen kolmen juostun osakilpailun jälkeen. Kolmantena maaliviivan yli heittäytyi yhdistetyn maailmancupin pisteistäkin viime talvena useaan otteeseen kamppaillut Jussi Salo.
 
 Käännetyssä järjestyksessä viime viikon tavoin paras oli Tampereen Pyrinnön Taina Koivisto. Hammaslääkäri Koivisto käytti reilun viiden kilometrin reittiin aikaa 53.53 ja oli maalissa silminnähden tyytyväinen suoritukseensa ja järjestelyihin
+
 - Kivaa oli ja reitti oli hyvin merkattu, ei ollut vaaraa eksyä!
 
 Sarja jatkuu ensi viikolla Niihaman majalla Mikon leipä –stagen merkeissä.

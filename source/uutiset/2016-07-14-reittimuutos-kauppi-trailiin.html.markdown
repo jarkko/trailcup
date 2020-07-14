@@ -1,6 +1,6 @@
 ---
 title: Viimehetken muutos Kauppi Trailin juoksureittiin
-date: 2016-07-14 07:39 UTC
+
 tags:
 ---
 

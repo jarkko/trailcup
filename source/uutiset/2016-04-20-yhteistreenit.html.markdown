@@ -1,6 +1,6 @@
 ---
 title: INOV-8 TRAIL CUP -YHTEISTREENIT
-date: 2016-04-20 19:39 UTC
+
 tags:
 ---
 
@@ -9,9 +9,9 @@ tags:
 Ville Siukkola Training järjestää kaikille avoimet yhteistreenit Trail Cupin ajan perjantaisin klo 17.30. Yhteisharjoituksissa tehdään valmentajan johdolla juoksutekniikka-, koordinaatio-, teho- ja lihaskuntoharjoitteita.
 Yhteistreenit soveltuvat kaikille (polku)juoksusta kiinnostuneille tasosta riippumatta. Yhteistreeneistä saat potkua mm. Trail Cupin osakilpailuihin sekä monipuolisuutta ja ideoita oman juoksuharjoittelun monipuolistamiseksi.
 
-* **Harjoituspäivät**: Perjantait 29.4., 6.5., 13.5., 20.5., 27.5.
-* **Harjoitusaika**: klo 17.30-19.00
-* **Harjoituspaikka**: Kaupin urheilupuisto, uusi huoltorakennus
+- **Harjoituspäivät**: Perjantait 29.4., 6.5., 13.5., 20.5., 27.5.
+- **Harjoitusaika**: klo 17.30-19.00
+- **Harjoituspaikka**: Kaupin urheilupuisto, uusi huoltorakennus
 
 Harjoituksien valmennuksesta vastaa Ville Siukkola.
 

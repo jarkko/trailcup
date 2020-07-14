@@ -1,6 +1,6 @@
 ---
 title: Trail Cup Morossa
-date: 2014-04-24 16:20 UTC
+
 tags:
 ---
 

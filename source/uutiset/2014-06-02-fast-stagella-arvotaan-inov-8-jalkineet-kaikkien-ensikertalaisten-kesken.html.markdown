@@ -1,6 +1,6 @@
 ---
 title: Fast-stagella arvotaan Inov-8-jalkineet kaikkien ensikertalaisten kesken
-date: 2014-06-02 06:52 UTC
+
 tags:
 ---
 

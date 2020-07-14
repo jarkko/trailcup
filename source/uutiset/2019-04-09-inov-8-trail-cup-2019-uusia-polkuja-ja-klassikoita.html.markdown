@@ -1,6 +1,6 @@
 ---
 title: Inov-8 Trail Cup 2019 - uusia polkuja ja klassikoita
-date: 2019-04-09 07:39 UTC
+
 tags:
 ---
 

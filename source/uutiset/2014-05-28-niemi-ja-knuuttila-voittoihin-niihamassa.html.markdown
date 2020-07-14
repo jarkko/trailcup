@@ -1,6 +1,6 @@
 ---
 title: Niemi ja Knuuttila voittoihin Niihamassa
-date: 2014-05-28 05:47 UTC
+
 tags:
 ---
 

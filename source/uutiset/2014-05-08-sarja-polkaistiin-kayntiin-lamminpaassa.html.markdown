@@ -1,6 +1,6 @@
 ---
 title: Sarja polkaistiin käyntiin Lamminpäässä
-date: 2014-05-08 16:26 UTC
+
 tags:
 ---
 
@@ -22,5 +22,5 @@ Arvontapalkintoja jaettiin tietenkin myös runsaasti kaikkien osanottajien keske
 
 Ensi viikon tiistaina samaan aikaan Tampereen taitavimman ja nopeimman polkujuoksijan tittelistä kamppaillaan Kaupin vanhalla huoltorakennuksella gopal-stagen merkeissä. Tapahtumaan on mahdollista ilmoittautua Trail Cupin kotisivujen [ilmoittautumispalvelussa](http://trailcup.fi/2014/ilmo/) tai paikan päällä puoli kuuteen mennessä. **Koska kokonaiskilpailuunkin lasketaan mukaan vain neljän parhaan osakilpailun pisteet, on kenellä tahansa vielä mahdollisuus ilmoittautua mukaan vuoden himotuimman polkujuoksutittelin metsästykseen**. Yksittäisiin osakilpailuihin voi toki myös osallistua ilman sen suurempia tavoitteita.
 
-* [Tulokset](http://events.navigeist.com/fi/events/1/legs/1/results)
-* [Osakilpailun kuvasatoa](https://www.flickr.com/photos/jarkko/sets/72157644564524092)
+- [Tulokset](http://events.navigeist.com/fi/events/1/legs/1/results)
+- [Osakilpailun kuvasatoa](https://www.flickr.com/photos/jarkko/sets/72157644564524092)

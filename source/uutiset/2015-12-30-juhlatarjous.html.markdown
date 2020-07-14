@@ -1,6 +1,5 @@
 ---
 title: Trail Cup -osanotto kevääksi tarjolla huippuhintaan – mutta vain vuoden loppuun saakka
-date: 2015-04-27 10:02 UTC
 tags:
 ---
 

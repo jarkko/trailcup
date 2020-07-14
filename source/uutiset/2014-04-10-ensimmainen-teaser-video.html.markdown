@@ -1,6 +1,6 @@
 ---
 title: Ensimmäinen teaser-video
-date: 2014-04-10 12:40 UTC
+
 tags: video
 ---
 
@@ -8,5 +8,5 @@ Punakoneen video-crew jalkautui Tampereen syksyyn (muistatteko, se vuodenaika jo
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/5_Jo06yuWII" frameborder="0" allowfullscreen></iframe>
 
-**Musiikki**: Kevin MacLeod: "Black Vortex" ([incompetech.com](http://incompetech.com)), 
+**Musiikki**: Kevin MacLeod: "Black Vortex" ([incompetech.com](http://incompetech.com)),
 Creative Commons: By Attribution 3.0 -lisenssillä.

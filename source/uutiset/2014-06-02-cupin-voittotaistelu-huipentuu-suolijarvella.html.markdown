@@ -1,6 +1,6 @@
 ---
 title: Cupin voittotaistelu huipentuu Suolijärvellä
-date: 2014-06-02 12:45 UTC
+
 tags:
 ---
 
