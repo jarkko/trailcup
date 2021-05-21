@@ -1,0 +1,184 @@
+//
+// Main Stylesheet
+//
+
+@import "compass"
+@import "h5bp"
+
+// HTML5 Boilerplate Styles
+@include h5bp-normalize
+@include h5bp-base-styles
+
+@import "compass/typography/lists/inline-block-list"
+@import "compass/css3/border-radius"
+
+// Susy Grid Systems - choose one to customize
+// @import "grid/fixed"
+@import "grid/magic"
+
+// Font Awesome icons
+//@import "font-awesome.scss"
+
+$inov-green: #4BE12E
+
+// Your own styles go here.
+body
+  background-color: #000
+  background-image: url(/images/background-2019.jpg)
+  background-size: 100%
+  background-repeat: no-repeat
+  background-position: 50% 0
+  color: #fff
+  min-height: 1200px
+  font-family: "ff-meta-serif-web-pro",serif
+
+.container
+  nav
+    ul
+      font-size: 120%
+      font-weight: bold
+
+    ol
+      list-style: decimal
+
+    ul, ol
+      @include span-columns(8, 8)
+      +inline-block-list
+      margin-bottom: 1em
+      text-align: center
+
+      li
+        box-sizing: border-box
+        width: 180px
+        overflow: hidden
+        text-align: center
+        position: relative
+
+        a
+          overflow: hidden
+          font-size: 90%
+          text-decoration: none
+          color: #fff
+          padding:
+            bottom: 1em
+            top: 1em
+          display: block
+
+        .name
+          font-weight: bold
+          color: $inov-green
+          font-family: "neuzon",sans-serif
+
+        .num
+          position: absolute
+          left: 20%
+          top: 0
+          font-size: 300%
+          z-index: 1
+          opacity: 0.3
+          font-family: "neuzon",sans-serif
+
+header
+  position: relative
+  a
+    display: block
+    width: 100%
+    height: 100%
+    color: #fff
+    text-decoration: none
+nav
+  background-color: rgba(0,0,0,0.5)
+
+#main
+  padding-bottom: 2em
+  background-color: rgba(0,0,0,0.7)
+
+footer
+  background-color: rgba(0,0,0,0.8)
+
+
+nav
+  li:hover
+    background-color: rgba(255,255,255,0.2)
+
+  #ilmo-link
+    a
+      background-color: $inov-green
+
+h1
+  color: #eee
+  text-transform: uppercase
+  line-height: 1em
+  font-family: "neuzon",sans-serif
+h2
+  line-height: 1.3em
+  font-family: "neuzon",sans-serif
+kbd
+  background-color: #f5f5f5
+  border: 1px solid #dedede
+  padding: 0px 3px 2px
+
+a
+  color: $inov-green
+
+.container
+  // Force images to scale down to their container widths.
+  img
+    max-width: 100%
+    height: auto
+
+
+footer
+  vertical-align: bottom
+  position: relative
+  p
+    position: relative
+    overflow: hidden
+  a
+    padding: auto
+    display: inline-block
+    box-sizing: border-box
+    position: relative
+    max-width: 320px
+    height: 100%
+    text-decoration: none
+    margin:
+      right: 2em
+      top: 1em
+    &#gopal
+      padding: 5px
+      background-color: #fff
+    img
+      display: block
+      max-width: 100%
+      margin: auto
+
+blockquote
+  font-size: 120%
+  font-style: italic
+
+// Automatically reset the grid width & re-apply the grid background
+// to responsive layouts.
+$layouts: $break-tablet, $break-desktop, $break-huge
+@each $layout in $layouts
+  @include at-breakpoint($layout)
+  h1
+    font-size: 1.5em
+
+@include at-breakpoint($break-tablet)
+  h1
+    font-size: 2em
+
+@include at-breakpoint($break-desktop)
+  h1
+    font-size: 3em
+
+@include at-breakpoint($break-huge)
+
+
+
+// H5BP helper classes & mixins.
+// @include h5bp-helpers
+
+// Print styles.
+@include h5bp-media

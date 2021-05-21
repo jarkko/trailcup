@@ -1,0 +1,35 @@
+---
+title:     VJ Tampere Trail Cup
+bodyclass: newproject
+layout: layout-2021
+---
+
+%section#main
+  .intro
+    :markdown
+      ## Kun asfaltti ei riitä…
+
+  #description
+    :markdown
+      VJ Trail Cup on viisiosainen polkujuoksusarja, joka juostaan vuonna 2020 aiemmasta poiketen syksyllä. Tapahtumapaikat ovat kuitenkin tuttuja vuodelta 2019 ja luvassa tänäkin vuonna nautinnollista polkujuoksua Tampereen parhaimmilla poluilla. Tapahtumat on suunnattu kaikentasoisille liikkujille ja viikoittaiset reitit vaihtelevat 6-8km välillä. VJ Trail Cupin reitit ovat kokeneiden polkujuoksijoiden suunnittelemat ja merkkaamat, joten eksymisen vaaraa ei ole. Matalan kynnyksen polkujuoksusarja on Suomen ensimmäinen ja suurin laatuaan. Rennosta tunnelmasta, laadukkaista järjestelyistä ja runsaista palkinnoistaan tunnettu tapahtumasarja valtaa Tampereen polut jo seitsemättä vuotta putkeen.
+
+  #schedule
+    %h2 Uutiset
+
+    %ul
+      - blog.articles[0...5].each do |article|
+        - next if article.date.year < Date.today.year
+        %li
+          = link_to article.title, article.url
+          %time= article.date.strftime('%-d.%-m.%-Y')
+
+    %p
+      = link_to "Lisää uutisia…", "/uutiset"
+
+  #details
+    :markdown
+      ## Lisätiedot
+
+      info@trailcup.fi
+
+      ## Nähdään keväällä Tampereen poluilla!
