@@ -18,6 +18,7 @@ layout: layout-2021
 
     %ul
       - blog.articles[0...5].each do |article|
+        -# Hide older news
         - next if article.date.year < Date.today.year
         %li
           = link_to article.title, article.url
@@ -32,4 +33,4 @@ layout: layout-2021
 
       info@trailcup.fi
 
-      ## Nähdään keväällä Tampereen poluilla!
+      ## Nähdään syksyllä Tampereen poluilla!

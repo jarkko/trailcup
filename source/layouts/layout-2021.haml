@@ -10,7 +10,7 @@
     %meta{'http-equiv' => "X-UA-Compatible", :content =>"IE=edge"}
 
     -# Pull in the page title
-    %title== #{current_page.data.title} – Inov-8 Tampere Trail Cup
+    %title== #{current_page.data.title} – VJ Tampere Trail Cup
 
     %meta{:name => "description", :content => ""}
     %meta{:name => "author", :content => ""}
@@ -34,12 +34,7 @@
     .container
       %header
         = link_to "/" do
-          %h1
-            Inov-8
-            %br
-            Tampere
-            %br
-            Trail Cup
+          %img{src: "/images/2021/logo2021-red_transparent.png", class: "logo"}
 
       %nav
         %ul#main-nav
@@ -138,25 +133,26 @@
           %p
             Sponsored by
           %p
-            = link_to "http://www.inov-8.com" do
-              %img{src: "/images/inow-white-2-150.png"}
-            = link_to "http://www.premiumsport.fi" do
-              %img{src: "https://www.premiumsport.fi/wp-content/themes/premiumsport/imgs/logo.png"}
-          %p
-            = link_to "http://www.hierojari.fi/" do
-              %img{src: "/images/hierojarilogo.jpg"}
-            = link_to "http://www.mikonleipa.fi/" do
-              %img{src: "/images/mikon-leipa.png"}
-          %p
-            = link_to "http://www.nonamesport.com", id: "noname" do
-              %img{src: "/images/noname_logo.png"}
-            = link_to "https://www.kauppisportscenter.fi" do
-              %img{src: "/images/ksc-valkoinen.png", style: "width: 50%"}
-          %p
-            = link_to "https://www.njie.com/fi/" do
-              %img{src: "/images/2019/NjieLogo_WHITE.png"}
-            = link_to "http://www.gopal.fi/", id: "gopal" do
-              %img{src: "/images/Gopal_logo.png"}
+            = link_to "https://www.vjsport.fi" do
+              %img{src: "/images/2021/VJ_logo_white.png"}
+            -# = link_to "http://www.premiumsport.fi" do
+            -#   %img{src: "https://www.premiumsport.fi/wp-content/themes/premiumsport/imgs/logo.png"}
+          /
+            %p
+              = link_to "http://www.hierojari.fi/" do
+                %img{src: "/images/hierojarilogo.jpg"}
+              = link_to "http://www.mikonleipa.fi/" do
+                %img{src: "/images/mikon-leipa.png"}
+            %p
+              = link_to "http://www.nonamesport.com", id: "noname" do
+                %img{src: "/images/noname_logo.png"}
+              = link_to "https://www.kauppisportscenter.fi" do
+                %img{src: "/images/ksc-valkoinen.png", style: "width: 50%"}
+            %p
+              = link_to "https://www.njie.com/fi/" do
+                %img{src: "/images/2019/NjieLogo_WHITE.png"}
+              = link_to "http://www.gopal.fi/", id: "gopal" do
+                %img{src: "/images/Gopal_logo.png"}
 
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
     :javascript
