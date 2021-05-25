@@ -5,16 +5,44 @@
   <id>http://blog.url.com/uutiset</id>
   <link href="http://blog.url.com/uutiset"/>
   <link href="http://blog.url.com/uutiset/feed.xml" rel="self"/>
-  <updated>2020-08-25T03:00:00+03:00</updated>
+  <updated>2021-05-25T03:00:00+03:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Solo Trail Cup käynnistää polkujuoksukauden</title>
+    <link rel="alternate" href="http://blog.url.com/uutiset/2021/05/25/solo-trail-cup-kaynnistaa-polkujuoksukauden.html"/>
+    <id>http://blog.url.com/uutiset/2021/05/25/solo-trail-cup-kaynnistaa-polkujuoksukauden.html</id>
+    <published>2021-05-25T03:00:00+03:00</published>
+    <updated>2021-05-25T19:09:29+03:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/131233811@N02/50188860228/in/album-72157715362960328/"&gt;&lt;img src="https://live.staticflickr.com/65535/50188860228_357b2c24db_k_d.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Johtuen vallitsevasta pandemiatilanteesta perinteisesti toukokuuksi kaavailtu Trail Cup -kausi jouduttiin viime vuoden tavoin siirtämään myöhempään ajankohtaan. Niin ikään viime vuoden tavoin tarjoamme tänäkin vuonna tilalle soolo cupin viikoittain vaihtuvilla tulevan kesän Trail Cup -reiteillä. Reitit ovat hieman tavanomaista kevyemmin merkatut ja pysyvät merkattuina viikon päivät vuorollaan. Järjestäjät ovat kiitollisia kaikista sosiaalisen median päivityksistä aihetunnisteella #vjtrailcup. Lue lisää Solo Trail Cupista &lt;a href="/2021/kisat/solo"&gt;täältä&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Trail Cup on nyt VJ Trail Cup</title>
+    <link rel="alternate" href="http://blog.url.com/uutiset/2021/05/25/trail-cup-on-nyt-vj-trail-cup.html"/>
+    <id>http://blog.url.com/uutiset/2021/05/25/trail-cup-on-nyt-vj-trail-cup.html</id>
+    <published>2021-05-25T03:00:00+03:00</published>
+    <updated>2021-05-25T19:02:35+03:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/2021/vj-irock.jpg" alt="" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kuten tarkkasilmäiset jo huomasivatkin on Trail Cupin uudeksi pääyhteistyökumppaniksi saatu mukaan kotimainen kenkävalmistaja VJ Sport. Suunnistus-, maasto- ja polkujuoksujalkineisiin jo 40 vuotta erikoistunut oriveteläinen perheyritys valmistaa markkinoiden kestävimmät ja nopeimmat polkukengät kaikille alustoille ja matkoille. Yhteistyö tulee luonnollisesti näkymään isosti varsinaisen Trail Cupin tapahtumissa sitten, kun vallitseva pandemiatilanne antaa myöden järjestää jo perinteeksi muodostunut Suomen suosituin arki-illan polkujuoksusarja. Koko Trail Cup -organisaatio on innoissaan uudesta yhteistyöstä paikallisen VJ:n kanssa.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Inov-8 Trail Cup huipentui Niihaman majalla</title>
     <link rel="alternate" href="http://blog.url.com/uutiset/2020/08/25/inov-trailcup-huipentui-niihamassa.html"/>
     <id>http://blog.url.com/uutiset/2020/08/25/inov-trailcup-huipentui-niihamassa.html</id>
     <published>2020-08-25T03:00:00+03:00</published>
-    <updated>2020-09-01T20:20:06+03:00</updated>
+    <updated>2021-05-21T12:37:39+03:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -34,7 +62,7 @@
     <link rel="alternate" href="http://blog.url.com/uutiset/2020/08/18/tutut-nimet-heiluttivat.html"/>
     <id>http://blog.url.com/uutiset/2020/08/18/tutut-nimet-heiluttivat.html</id>
     <published>2020-08-18T03:00:00+03:00</published>
-    <updated>2020-08-18T22:21:55+03:00</updated>
+    <updated>2021-05-21T12:37:39+03:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -58,7 +86,7 @@
     <link rel="alternate" href="http://blog.url.com/uutiset/2020/08/11/premiumsport-stagella-iloisia-ilmeita.html"/>
     <id>http://blog.url.com/uutiset/2020/08/11/premiumsport-stagella-iloisia-ilmeita.html</id>
     <published>2020-08-11T03:00:00+03:00</published>
-    <updated>2020-08-11T22:23:21+03:00</updated>
+    <updated>2021-05-21T12:37:39+03:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -82,7 +110,7 @@
     <link rel="alternate" href="http://blog.url.com/uutiset/2020/08/05/ennakkosuosikit-vahvoilla.html"/>
     <id>http://blog.url.com/uutiset/2020/08/05/ennakkosuosikit-vahvoilla.html</id>
     <published>2020-08-05T03:00:00+03:00</published>
-    <updated>2020-08-07T11:48:56+03:00</updated>
+    <updated>2021-05-21T12:37:39+03:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -99,52 +127,6 @@
 &lt;p&gt;Inov-8 Trail Cup jatkuu ensi tiistaina Lamminpään harjun nopeilla neulaspoluilla Premiumsport-stagen merkeissä.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://www.flickr.com/photos/131233811@N02/50189655662/in/album-72157715362960328/"&gt;&lt;img src="https://live.staticflickr.com/65535/50189655662_be5458c218_b_d.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Valavuori ei voittanut Inov-8 Trail Cupin kauden avaustapahtumaa</title>
-    <link rel="alternate" href="http://blog.url.com/uutiset/2020/07/28/valavuori.html"/>
-    <id>http://blog.url.com/uutiset/2020/07/28/valavuori.html</id>
-    <published>2020-07-28T03:00:00+03:00</published>
-    <updated>2020-07-29T09:25:13+03:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/131233811@N02/50163376848/in/album-72157715273535223/"&gt;&lt;img src="https://live.staticflickr.com/65535/50163376848_d4a63d0ab1_b_d.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Koronan vuoksi kolme kuukautta viivästetty Inov-8 Trail Cup starttasi tiistai-iltana Kauppi Sports Centerillä Tampereella. Tihkusateen kastelemat liukkaat polut parhaiten hallitsivat sekä miesten että naisten sarjoissa ensikertalaiset Pyry Willman ja Mira Tuominen. Vakuuttavasti debytoineet voittajat karistivat kovimmat haastajansa jo hyvissä ajoin matkan aikana ja saivat loppumatkasta nauttia raikkaan lämpimästä kesäillasta ilman vaaraa voiton karkaamisesta. Lähimmäksi pääsivät Trail Cupin kestomenestyjät Ari-Pekka Lassila ja Milla Hirvonen, jotka kumpainenkin hävisivät voittajille 45 sekuntia. Palkintokorokkeen täydensivät nuoret tulevaisuuden polkujuoksunimet Oliver Alajoutsi ja Hilla Niemelä.&lt;/p&gt;
-
-&lt;p&gt;Voittajien lisäksi vahvan debyytin polkujuoksuympyröihin teki myös urheiluvaikuttaja ja talk show -isäntä Aleksi Valavuori, joka heikkona hetkenään meni sunnuntain Valavuori Live -ohjelmassaan lupautumaan mukaan lähtöviivalle. Kovin tavoittein matkaan lähtenyt Valavuori pystyi vastoinkäymisistä huolimatta kiristämään viimeiselle kilometrille vauhtiaan kirien lopulta 58:nneksi.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/131233811@N02/50164018636/in/album-72157715273535223/"&gt;&lt;img src="https://live.staticflickr.com/65535/50164018636_f99db41d5e_b_d.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Toistasataa osanottajaa paikalle houkutellut Inov-8 Trail Cupin avaustapahtuma polkaisi käyntiin sarjan seitsemännen vuosikerran. Perinteikäs matalan kynnyksen polkujuoksusarja jatkuu ensi tiistaina Hervannan Suolijärvellä noname-stagen merkeissä.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Seitsemättä kertaa juostava Inov-8 Trail Cup valtaa Tampereen parhaat polut 28.7.</title>
-    <link rel="alternate" href="http://blog.url.com/uutiset/2020/07/20/trail-cup-2020.html"/>
-    <id>http://blog.url.com/uutiset/2020/07/20/trail-cup-2020.html</id>
-    <published>2020-07-20T03:00:00+03:00</published>
-    <updated>2020-07-20T10:09:15+03:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Koronan vuoksi toukokuulta myöhempään ajankohtaan siirretty perinteikäs viisiosainen Inov-8 Trail Cup starttaa jälleen tiistaina 28.7. Viikottain tiistai-iltaisin juostava laadukkaista järjestelyistään ja lukuisista arvontapalkinnoistaan tunnettu polkukiertue saa viime vuoden tavoin alkunsa Kauppi Sports Centeriltä päättyen jo perinteeksi muodostuneeseen Niihaman majan tapahtumaan elokuun viimeisenä tiistaina 25.8.&lt;/p&gt;
-
-&lt;p&gt;Vaikka epidemiapiikki esti tapahtumajärjestelyt menneenä keväänä, eivät järjestäjät jääneet lepäämään laakereilleen. Toukokuussa tarjottiin maksutta kaikkien omatoimisesti kokeiltaviksi varsinaisessa Inov-8 Trail Cupissa juostavia reittejä. Omatoimilenkit saivat lämpimän vastaanoton ja satojen viikottaisten suoritusten lisäksi huomiota myös paikallislehdissä ja -radiossa. Nyt samat lenkit ovat kierrettävissä paremmin merkkauksin, runsain palkinnoin ja loistavan tunnelman kera elokuun tiistai-illoissa.&lt;/p&gt;
-
-&lt;p&gt;Polkujuoksukiertueen reitit ovat matkoiltaan 6-7km tarjoten kattavan läpileikkauksen Tampereen lähialueen polkureiteistä aina Lamminpään harjun neulaspoluista Kaupin järvenrantajuurakoihin. Merkkaus on totutun tiivis ja eksymisvaaraa ei ole, joten poluille uskaltautuu varmasti kokemattomampikin polkujuoksija. Vaikka valtaosa kilpailee vain itseään vastaan on etappien kärkipaikoista käyty viime vuosina myös kovia kamppailuita. Arvontapalkintojen lisäksi jaossa on kunniapalkintoja nopeimmille jokaisessa tapahtumassa kokonaiskilpailua unohtamatta.&lt;/p&gt;
-
-&lt;p&gt;Ilmoittautuminen tapahtumasarjaan on avattu ja se onnistuu joko tapahtumapaikalla tai näillä sivuilla.&lt;/p&gt;
-
-&lt;p&gt;Inov-8 Trail Cupin ohjelma:&lt;/p&gt;
-
-&lt;p&gt;Ti 28.7. Kauppi
-Ti 4.8. Suolijärvi
-Ti 11.8. Lamminpää
-Ti 18.8. Kyötikkälä
-Ti 25.8. Niihama&lt;/p&gt;
 </content>
   </entry>
 </feed>
