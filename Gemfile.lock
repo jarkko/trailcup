@@ -133,6 +133,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    rbtree (0.4.4)
     rexml (3.2.5)
     rgl (0.5.7)
       lazy_priority_queue (~> 0.1.0)
@@ -141,6 +142,10 @@ GEM
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    set (1.0.1)
+    sorted_set (1.0.3)
+      rbtree
+      set (~> 1.0)
     stream (0.5.3)
       generator
     susy (2.2.14)
@@ -172,6 +177,7 @@ DEPENDENCIES
   middleman-gh-pages
   middleman-livereload
   nokogiri
+  sorted_set
   susy (~> 2.2.2)
   tzinfo-data
   wdm (~> 0.1.0)
